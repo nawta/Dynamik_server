@@ -1,0 +1,34 @@
+I wanted to start out with some reminders.
+1st, we have a book club coming up on Inspired in four weeks on August 7th. I just reread it myself. It's a good read. It's highly aligned with how I think about product management and does a good job of explaining why some of these things are important.
+That I have also believed to be important. So it's nice to have another voice explaining all of that. So please do read that. I think I'm going to update the new hire on boarding doc and ask all new hires to read this as well so that we all.
+Everybody in the team is on the same page with respect to this book.
+Let's see reminder B. Remember, there's this interview spreadsheet. CS and sales have populated that with the number of customer contacts for meetings. Please do follow up on that. I want to ensure goodwill with that team and follow up promptly with meetings with these customers so that team can see that we're taking advantage of it.
+3rd reminder, We've got a little engagement survey. I'm going to run this once a month in Q3 just to take a pulse. Given all the change going on, please do take a minute to fill it out. It's 5.
+Quick questions and then one free form where you can share whatever feedback you have.
+Fabia didn't receive it. I, I'm pretty sure I went through my emails. I think there was some, maybe it's on my end, but I, I'm happy to fill it out. But I, you didn't get it. Need to get it to you. Alright, I will. I'll ask Jessica, Theresa and that to you. Anybody else in the same condition where you did not receive it?
+I don't recall, but is there a way to put the link to the survey in the agenda? Well, it's personal. It's tied back to your user ID, so we can track which team you're on and that kind of thing. I do believe it's anonymous, but nevertheless, everyone has their own custom ID. So I'll ask Jessica to send it to Fabian and Karina. Anybody else? I just, I hadn't seen it, Scott, but I searched my e-mail real quick.
+And it looks like that's the title of the e-mail, so if you just search for that in your in your Gmail, you should be able to find it if you got it.
+Pulse Survey Culture amp OK
+Anybody else didn't get it, please ping me.
+All right.
+Next reminder we need we have a goal of at least three customer interviews per PM there.
+Call Sarah, OK.
+Anybody else didn't get it, please ping me.
+All right.
+Next reminder we need we have a goal of at least three customer interviews per PM. There's an OK R issue out there. If you haven't updated it lately, please do so. And remember, we have three weeks until Q2 to hit our goals. So please do invest the time to get those set up.
+And get at least three done if you haven't already
+Next one category maturity page. Last week we talked about this. Josh did a great job of creating some new views.
+One of which is sort of this flow chart showing how mature we're going to be at a given point in time, which raised questions about whether.
+We were forecasting that accurately. If you haven't already, please go in and either confirm that it's accurate or updated.
+Thanks to Kenny for creating that issue.
+Somebody had a direction maturity page, you want to talk about that?
+That was just me, just your offensive. So I was adding the link there. That's all it looks like seeing the updates there for the charts. Just check it out. So got it. So it's a good way you can get a sense for like, you know, it's hard. It's hard when it's in tabular form, but when it's charted, it's much easier to see like if it's achievable or not based on some of the trends. And there's also, if you Scroll down, scalable trends as well, so you can see how your stage in particular is.
+Trending or said to be trending so.
+Great. Thanks, Josh. All right, some team updates. We hired a couple more PM. So we got a good rhythm going on hiring. We heard Gabe Weaver, he originally came through the growth funnel, but we have a really strong candidate for that fourth slot. So we're going to target Gabe for 1/3 manage PM.
+The charter of that team is to be defined, but bottom line, we're going to have a third group in the manage area and Gabe will lead that. And then Dove Hershkovitz, we just hired him as the APM monitoring. He's got a great background in monitoring and has most recently been at Elastic.
+So thank you to everyone who's been involved in the hiring loop. I know it's taking a lot of energy from everybody, but I think our.
+Hiring processes continues to pick up speed.
+B2 BI worked with Christy and David Sakamoto to change some language around customer results. Just wanted to make sure you all saw that. So there's the Mr Hey Scott on that one. I just the there's a diff highlights what is new content, I believe and there's one section that is great I can
+
+
+
